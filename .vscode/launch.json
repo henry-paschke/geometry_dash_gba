@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run GBA Game",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "C:/Users/Henry/Downloads/mGBA-0.10.2-win32/mGBA.exe",
+        "args": [
+          "C:/GBA/geometry_dash/geometry_dash.gba"
+        ],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "console": "integratedTerminal"
+      }
+    ]
+  }

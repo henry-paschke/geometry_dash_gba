@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "name": "Butano",
+            "includePath": [
+                "C:/butano/butano/include",
+                "C:/butano/common/include",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/build"
+            ],
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++20",
+            "defines": [],
+            "compilerPath": "C:/devkitPro/devkitARM/bin/arm-none-eabi-gcc.exe",
+            "intelliSenseMode": "windows-gcc-arm",
+            "compilerArgs": [
+                "-O2",
+                "-Wall",
+                "-Wextra",
+                "-Wpedantic",
+                "-Wshadow",
+                "-Wundef",
+                "-Wunused-parameter",
+                "-Wmisleading-indentation",
+                "-Wduplicated-cond",
+                "-Wduplicated-branches",
+                "-Wlogical-op",
+                "-Wnull-dereference",
+                "-Wswitch-default",
+                "-Wstack-usage=16384",
+                "-ffast-math",
+                "-ffunction-sections",
+                "-fdata-sections",
+                "-Wuseless-cast",
+                "-Wnon-virtual-dtor",
+                "-Woverloaded-virtual",
+                "-fno-rtti",
+                "-fno-exceptions"
+            ],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

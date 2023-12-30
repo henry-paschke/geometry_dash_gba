@@ -1,0 +1,1 @@
+variable_8x8_font_bn_gfx.o: variable_8x8_font_bn_gfx.s

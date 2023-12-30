@@ -1,0 +1,76 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/GBA/mythos/maps/tiled_data/house/map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/GBA/mythos/maps/tiled_data/barn_outside/map.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.076171875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 256.46460980036295,
+                "y": 256.464609800363
+            }
+        },
+        "C:/GBA/mythos/maps/tiled_data/field/map.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 256,
+                "y": 256
+            }
+        },
+        "C:/GBA/mythos/maps/tiled_data/house/map.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 125,
+                "y": 84
+            }
+        },
+        "Geometry Dash.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1617,
+                "y": 40
+            }
+        }
+    },
+    "last.imagePath": "C:/GBA/geometry_dash/graphics",
+    "map.height": 5,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "map.tmx",
+        "C:/GBA/mythos/maps/tiled_data/field/map.tmx",
+        "C:/GBA/mythos/maps/tiled_data/barn_outside/map.tmx",
+        "C:/GBA/mythos/maps/tiled_data/house/map.tmx"
+    ],
+    "project": "map.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "map.tmx",
+        "C:/GBA/mythos/maps/tiled_data/field/map.tmx",
+        "C:/GBA/mythos/maps/tiled_data/barn_outside/map.tmx",
+        "C:/GBA/mythos/maps/tiled_data/house/map.tmx",
+        "Geometry Dash.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
